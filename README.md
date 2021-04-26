@@ -1,0 +1,2 @@
+# rescuesquad
+GitHub Pages
